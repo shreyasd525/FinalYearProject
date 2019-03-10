@@ -1,0 +1,14 @@
+ #url = sys.argv[1]
+    #print("reached upto FE.py")
+    #with open('/opt/lampp/htdocs/BE/markup5.txt') as file:
+
+
+
+
+'''
+    with open('/opt/lampp/htdocs/BE/markup5.txt','rb') as file:
+        soup_string=file.read()
+
+    soup = BeautifulSoup(soup_string,'html.parser')
+    #soup = HTMLEntitiesToUnicode(soup_string)
+'''
